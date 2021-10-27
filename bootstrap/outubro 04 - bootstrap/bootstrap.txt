@@ -1,0 +1,4 @@
+Passar o boostrap, getbootstrap.com/2.3.2
+Criar site com tema Loja usando bootstrap
+
+Menu, fundo, imagens, textos
